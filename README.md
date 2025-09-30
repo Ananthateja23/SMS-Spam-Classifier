@@ -109,7 +109,8 @@ You can deploy this Streamlit app on **Render** by following these steps:
 4. **Deploy the service**:
 
    * Click **Create Web Service** and Render will automatically build and deploy your app.
-   * Once deployed, you will get a public URL where anyone can access your Laptop Price Predictor app.
+   * Once deployed, you will get a public URL where anyone can access your 
+    SMS Spam Classifier app.
 
 **Tip**: Make sure your `requirements.txt` file includes all necessary dependencies for Streamlit and model prediction.
 
